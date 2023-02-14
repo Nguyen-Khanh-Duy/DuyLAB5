@@ -1,0 +1,22 @@
+improt java.until.scanner;
+public class sochinhphuong{
+    public static void main (sting [] args)
+    {
+        scanner scan= new scanner (system.in);
+        int n;
+        system.out.println(" Nhap so can kiem tra :"
+        float kq=(float)Math.sprt(n); can bac cua n 
+        it(kq==(int)kq)
+        {
+            system.out.println(n+ " la so chinh phuong .");
+        }
+        else
+        {
+            system.out.println(n+ "ko la so chinh phuong");
+        }
+
+
+    }
+}
+
+
